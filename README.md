@@ -14,3 +14,4 @@ curl -X GET "https://api.example.com/api/sunset?location=USER_INPUT"
 {
   "sunset_time": "18:30:00"
 }
+![Alt Text](Untitled.png)
